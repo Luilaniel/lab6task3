@@ -1,0 +1,5 @@
+﻿Canon EOS R5	Japan	Interchangeable lens	45	CMOS	8K DCI	True
+Sony Alpha A7 IV	Japan	Interchangeable	33	Full-frame CMOS	4K UHD, Full HD	True
+Canon EOS R6	Japan	Interchangeable	20	Full-frame CMOS	4K UHD, Full HD	True
+GoPro HERO 11 Black	United States	Fixed wide-angle	27	1/1.9" CMOS	5.3K, 4K UHD, Full HD	True
+DJI Osmo Action 3	China	Fixed wide-angle	12	1/1.7" CMOS	4K UHD, Full HD	False
